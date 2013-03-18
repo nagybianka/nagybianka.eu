@@ -4,8 +4,6 @@ date: 2009-10-01
 tags: travel
 ---
 
-# Road Trip California Coast
-
 After 5 days in San Francisco, our road trip along the Pacific Coast begun. As, San Francisco and surrounding are the walhalla for everybody who is interested in IT, we had to stop in Cupertino (situated South of San Francisco) to stop by Google, Apple, Linked In,... It was nice to see the place where everything big is happening in that field!
 
 After couple of hours, we finally reached route 1, first point of interest Monterey. The city is noted for its rich history of resident artists beginning in the late 1800s, and its historically famed fishery. Monterey is well-know for its Bay Aquarium. We didn’t visit the aquarium due to a tight scedule, but it supposed to be one of the biggest aquariums in the world.

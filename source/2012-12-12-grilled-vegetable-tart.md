@@ -4,8 +4,6 @@ date: 2012-12-12
 tags: recipe
 ---
 
-# Grilled vegetable tart
-
 We try to have at least once a week vegetarian dish for dinner. We introduced this tradition as a New Year's resolution 2 years ago and we are still keeping in up. Three of my girl friends are vegetarian and they make amazing vegetarian dishes! They inspire me too incorporate more vegetarian food in our daily lives. I will try to share once a week a few of our favorites vegetarian dishes!
 
 ![Grilled vegetable tart](grilled-vegetable-tart/grilled-vegetable-tart.jpg)

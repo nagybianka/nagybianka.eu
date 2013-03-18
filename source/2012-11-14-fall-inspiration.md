@@ -4,8 +4,6 @@ date: 2012-11-14
 tags: inspiration
 ---
 
-# Fall inspiration
-
 ![Collage](fall-inspiration/collage.jpg)
 
 Images:
