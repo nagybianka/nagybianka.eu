@@ -10,7 +10,7 @@ When it comes to products, there is such an overload that is hard to find out wh
 
 Here are some natural products/toys that we love:
 
-![Product collage](natural-products-toys-for-babies/collage.jpg)
+![Product collage](/images/collage-natural-products.jpg)
 
 - 1 and 2 [Weleda](http://www.weleda.com/) calendula baby: we use the diaper care and calendula bath cream with thyme.
 - 3 [Mustela](http://www.mustela.com/) cold cream: soothes irritated sensitive skin free of phatalates, paraben, and phenoxyethanol. My baby's dry skin was softer just after couple of applications and the smell is great!

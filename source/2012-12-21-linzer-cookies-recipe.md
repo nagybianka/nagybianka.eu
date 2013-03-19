@@ -7,7 +7,7 @@ tags: recipe
 When growing up linzer (also known as empire biscuits) and ishler (chocolate covered version) cookies were one of my favorites. My grandmother used to make them around Christmas.
 These jam-filled cookies have their origin in Austria, but they are extremely famous in Hungary. Especially during Christmas time, linzer cookies can't be missed from the Christmas table. A great thing about linzer cookies is you can make them well in advance, and you can enjoy them weeks later (store them in a dry, cool place). Here is the recipe:
 
-![Linzer cookies](linzer-cookies-recipe/linzer-cookies.jpg)
+![Linzer cookies](/images/linzer-cookies.jpg)
 
 ## Ingredients
 

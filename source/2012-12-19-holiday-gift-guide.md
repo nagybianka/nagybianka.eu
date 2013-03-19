@@ -6,7 +6,7 @@ tags: inspiration
 
 I hope you find my gift guide under €50 helpful for the holidays. All of the items would make great gifts, whether your are shopping for your mother, sister, daughter or best friend.
 
-![Collage](holiday-gift-guide/collage.jpg)
+![Collage](/images/collage-holiday-gift-guide.jpg)
 
 1. Gloves
 2. Mug
