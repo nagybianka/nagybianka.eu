@@ -1,0 +1,118 @@
+@import url(http://fonts.googleapis.com/css?family=Economica|Open+Sans)
+
+$main_fonts: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif
+$detail_fonts: "Economica", "Helvetica Neue", Helvetica, Arial, sans-serif
+
+body
+  color: #161616
+  background-image: image-url("bg.png")
+  font-size: 1em
+p
+  font-family: $main_fonts
+  font-size: 0.8em
+a
+  background-color: #cfdce3
+  padding: 2px 4px 2px 4px
+  text-decoration: none
+  color: #4f5c6b
+a:visited
+  background-color: #eff3f5
+ul, ol
+  margin-left: 1em
+  li
+    font-size: 0.8em
+ol
+  list-style-type: decimal
+.grid
+  background-color: white
+  box-shadow: 0 0 8px rgba(0,0,0,0.2)
+.banner-wrapper
+  header
+    border-bottom: 1px dotted #cccccc
+    h1
+      letter-spacing: 20px
+      padding: 0.5em 0 0.5em 0
+      text-transform: uppercase
+      font-family: $detail_fonts
+    .social
+      text-align: right
+      margin-top: 2.6em
+      li
+        display: inline
+        a
+          background-color: transparent
+          font-size: 2em
+          font-weight: bold
+          color: #cfdce3
+          text-decoration: none
+        a:hover
+          color: #4f5c6b
+.pagination
+  .next
+    float: right
+article
+  h1
+    font-family: $detail_fonts
+    font-size: 1.8em
+    text-transform: uppercase
+    a
+      color: #4f5c6b
+      text-decoration: none
+  h2
+    text-transform: uppercase
+  h2, h3, h4, h5, h6
+    font-family: $detail_fonts
+  img
+    padding: 5px
+    background-color: #f6f6f6
+  ol, ul
+    font-family: $main_fonts
+    margin-left: 1.5em
+  .meta
+    color: gray
+    font-family: $main_fonts
+    font-size: smaller
+    i
+      color: #bbb
+      font-size: smaller
+      margin-right: 0.5em
+    hr
+      position: relative
+      top: 1.5em
+      border: 0
+      border-bottom: 1px dotted gray
+      height: 1px
+    time
+      position: relative
+      padding-right: 0.5em
+      background-color: white
+aside
+  background-color: #fafafa
+  padding: 1em
+  section
+    h1
+      font-family: $detail_fonts
+    ol
+      margin: 0
+  .tags
+    font-family: $detail_fonts
+    i
+      position: relative
+      top: 2px
+      margin-right: 0.2em
+    li
+      line-height: 1.8em
+      font-size: 2em
+      list-style: none
+      a
+        color: #4f5c6b
+        background-color: transparent
+        text-decoration: none
+footer
+  padding-bottom: 1em
+  text-align: center
+  font-size: smaller
+  font-family: $main_fonts
+  color: gray
+#last-row
+  margin-bottom: 0

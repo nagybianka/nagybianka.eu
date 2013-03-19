@@ -1,0 +1,104 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+body {
+  line-height: 1.5em;
+}
+ol, ul {
+  list-style: square;
+  margin: 0 0 0.5em;
+}
+blockquote, q {
+  quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+  content: '';
+  content: none;
+}
+code {
+  background-color: #f4f4f4;
+  font-family: Menlo, 'Panic Sans', monospace;
+  font-size: 0.875em;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+strong {
+  font-weight: bold;
+}
+p {
+  margin: 0 0 0.5em;
+}
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+  line-height: 1.2em;
+  padding: 0.5em 0 0.25em;
+}
+h1 {
+  font-size: 3em;
+}
+h2 {
+  font-size: 2em;
+}
+h3 {
+  font-size: 1.5em;
+}
+h4 {
+  font-size: 1.25em;
+}
+h5, h6 {
+  font-size: 1em;
+}
+img {
+  max-width: 100%;
+}
+#logo {
+  padding-bottom: 0;
+}
+.logo {
+  font-weight: normal;
+  font-size: 1.2em;
+}
+.banner-wrap {
+  text-align: center;
+  padding: 0 10px 1em;
+  margin-bottom: 1em;
+}
+.intro {
+  font-size: 1.75em;
+  line-height: 1.1em;
+  max-width: none;
+}
+.grid {
+  padding: 0 20px;
+}
+.row {
+  margin-bottom: 1em;
+}
+.footer p {
+  text-align: center;
+  max-width: none;
+}
