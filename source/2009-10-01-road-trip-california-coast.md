@@ -1,5 +1,5 @@
 ---
-title: Road Trip California Coast
+title: Road trip California coast
 date: 2009-10-01
 ---
 

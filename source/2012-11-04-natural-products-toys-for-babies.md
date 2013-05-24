@@ -1,5 +1,5 @@
 ---
-title: Natural products/toys for babies 
+title: Natural products/toys for babies
 date: 2012-11-04
 ---
 
