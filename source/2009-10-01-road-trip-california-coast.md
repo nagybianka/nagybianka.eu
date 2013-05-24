@@ -1,7 +1,6 @@
 ---
 title: Road Trip California Coast
 date: 2009-10-01
-tags: travel
 ---
 
 After 5 days in San Francisco, our road trip along the Pacific Coast begun. As, San Francisco and surrounding are the walhalla for everybody who is interested in IT, we had to stop in Cupertino (situated South of San Francisco) to stop by Google, Apple, Linked In,... It was nice to see the place where everything big is happening in that field!

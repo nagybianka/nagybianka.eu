@@ -49,13 +49,8 @@
         </div>
         <div class='slot-4-5'>
           <aside>
-            <section class="tags">
+            <section class="archive">
               <ol>
-                <% blog.tags.each do |tag, articles| %>
-                  <li>
-                    <%= link_to tag.upcase, tag_path(tag) %> (<%= articles.size %>)</a>
-                  </li>
-                <% end %>
                 <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
                   <li>
                     <%= link_to year, blog_year_path(year) %> (<%= articles.size %>)</a>

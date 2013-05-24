@@ -1,7 +1,6 @@
 ---
 title: Fall inspiration
 date: 2012-11-14
-tags: inspiration
 ---
 
 ![Collage](/images/collage-fall-inspiration.jpg)

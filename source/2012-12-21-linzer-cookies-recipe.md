@@ -1,7 +1,6 @@
 ---
 title: Linzer cookies recipe
 date: 2012-12-21
-tags: recipe
 ---
 
 When growing up linzer (also known as empire biscuits) and ishler (chocolate covered version) cookies were one of my favorites. My grandmother used to make them around Christmas.

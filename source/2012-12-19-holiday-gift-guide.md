@@ -1,7 +1,6 @@
 ---
 title: Holiday gift guide
 date: 2012-12-19
-tags: inspiration
 ---
 
 I hope you find my gift guide under €50 helpful for the holidays. All of the items would make great gifts, whether your are shopping for your mother, sister, daughter or best friend.
