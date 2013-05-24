@@ -50,6 +50,7 @@
         <div class='slot-4-5'>
           <aside>
             <section class="archive">
+              <h1>Archive</h1>
               <ol>
                 <% blog.articles.group_by {|a| a.date.year }.each do |year, articles| %>
                   <li>
