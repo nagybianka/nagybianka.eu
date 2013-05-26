@@ -22,43 +22,31 @@
     <meta content="text/html" name="DC.Format" />
   </head>
   <body>
-    <div class='grid' role='main'>
-      <div class='banner-wrapper'>
-        <header class='row'>
-          <div class='slot-0-1-2-3'>
+    <div class="grid" role="main">
+      <div class="banner-wrapper">
+        <header class="row">
+          <div class="slot-0-1-2-3">
             <h1>
               <a href="{{ site.url }}">{{ site.name }}</a>
             </h1>
           </div>
-          <div class='slot-4-5'>
-            <ul class='ss-icon ss-social social'>
+          <div class="slot-4-5">
+            <ul class="ss-icon ss-social social">
               <li>
-                <a href='mailto:{{ site.email }}' title='Contact me'>Mail</a>
+                <a href="mailto:{{ site.email }}" title="Contact me">Mail</a>
               </li>
               <li>
-                <a href='https://twitter.com/nagybianka' title='Follow me on Twitter'>Twitter</a>
+                <a href="https://twitter.com/nagybianka" title="Follow me on Twitter">Twitter</a>
               </li>
               <li>
-                <a href='https://pinterest.com/bizsu' title='Follow me on Pinterest'>Pinterest</a>
+                <a href="https://pinterest.com/bizsu" title="Follow me on Pinterest">Pinterest</a>
               </li>
             </ul>
           </div>
         </header>
       </div>
-      <div class='row'>
-        <div class='slot-0-1-2-3'>
-          {{ content }}
-        </div>
-        <div class='slot-4-5'>
-          <aside>
-            <section class="">
-              <h1>About</h1>
-              <p>Something about me.</p>
-            </section>
-          </aside>
-        </div>
-      </div>
-      <footer class='row' id='last-row'>
+      {{ content }}
+      <footer class="row" id="last-row">
         &copy; {{ site.name }} &mdash; 2009
       </footer>
     </div>
