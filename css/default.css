@@ -48,6 +48,10 @@ ol {
   text-transform: uppercase;
   font-family: "Economica", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
+.banner-wrapper header h1 a {
+  background-color: transparent;
+  color: #161616;
+}
 .banner-wrapper header .social {
   text-align: right;
   margin-top: 2.6em;

@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge;chrome=1" />
-    <title>{{ page.title }} &mdash; Nagy Bianka</title>
+    <title>{{ page.title }} &mdash; {{ site.name }}</title>
     <link rel="stylesheet" type="text/css" href="/css/base.css" />
     <!--[if lte IE 9]>
       <link rel="stylesheet" type="text/css" href="/css/720_grid.css" />
@@ -16,7 +16,7 @@
     <link rel="stylesheet" type="text/css" href="/css/ss-standard.css" />
     <link href="/favicon.ico" rel="shortcut icon">
     <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no" name="viewport">
-    <meta content="{{ page.title }} &mdash; Nagy Bianka" name="DC.Title" />
+    <meta content="{{ page.title }} &mdash; {{ site.name }}" name="DC.Title" />
     <meta content="Nagy Bianka" name="DC.Creator" />
     <meta content="en" name="DC.Language" />
     <meta content="text/html" name="DC.Format" />
@@ -26,12 +26,14 @@
       <div class='banner-wrapper'>
         <header class='row'>
           <div class='slot-0-1-2-3'>
-            <h1>{{ site.name }}</h1>
+            <h1>
+              <a href="{{ site.url }}">{{ site.name }}</a>
+            </h1>
           </div>
           <div class='slot-4-5'>
             <ul class='ss-icon ss-social social'>
               <li>
-                <a href='/contact/new' title='Contact me'>Mail</a>
+                <a href='mailto:{{ site.email }}' title='Contact me'>Mail</a>
               </li>
               <li>
                 <a href='https://twitter.com/nagybianka' title='Follow me on Twitter'>Twitter</a>
@@ -51,13 +53,13 @@
           <aside>
             <section class="">
               <h1>About</h1>
-              <p>Something about Nagy Bianka.</p>
+              <p>Something about me.</p>
             </section>
           </aside>
         </div>
       </div>
       <footer class='row' id='last-row'>
-        &copy; Nagy Bianka &mdash; 2009
+        &copy; {{ site.name }} &mdash; 2009
       </footer>
     </div>
   </body>
