@@ -1,6 +1,7 @@
 ---
-title: Natural products/toys for babies
-date: 2012-11-04
+layout: post
+title:  Natural products/toys for babies
+date:   2012-11-04
 ---
 
 Five months ago I became a mom of a sweet little girl. The first months were overwhelming and hard, recovering from child birth, trying to figure out what to do, how to care for our baby, dealing with unsolicited advice from grand parents, great grand parents, people on the street, etc were not helping to cope with the insecurities. Now that we have more or less our routine, things got a little bit easier. Getting up once/twice a night is still hard, but it will improve in couple of months. I hope.
@@ -9,7 +10,7 @@ When it comes to products, there is such an overload that is hard to find out wh
 
 Here are some natural products/toys that we love:
 
-![Product collage](/images/collage-natural-products.jpg)
+![Product collage]({{ site.url }}/images/collage-natural-products.jpg)
 
 - 1 and 2 [Weleda](http://www.weleda.com/) calendula baby: we use the diaper care and calendula bath cream with thyme.
 - 3 [Mustela](http://www.mustela.com/) cold cream: soothes irritated sensitive skin free of phatalates, paraben, and phenoxyethanol. My baby's dry skin was softer just after couple of applications and the smell is great!

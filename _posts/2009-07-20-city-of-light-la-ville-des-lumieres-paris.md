@@ -1,6 +1,7 @@
 ---
-title: City of Light, La ville des lumières (Paris)
-date: 2009-07-20
+layout: post
+title:  City of Light, La ville des lumières (Paris)
+date:   2009-07-20
 ---
 
 For the long weekend we decided to visit the City of Light, Paris. As it was a last minute decision the train ticket could have been cheaper, but it wasn’t overly expensive for a two way ticket (€100/person). And it only takes about 1.20 min from Brussels Midi Station to arrive in Paris Nord Station.

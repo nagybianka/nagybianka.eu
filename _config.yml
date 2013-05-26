@@ -1,0 +1,7 @@
+name: Nagy Bianka
+pygments: false
+safe: true
+timezone: Europe/Brussels
+future: false
+permalink: /blog/:title
+url: http://nagybianka.eu

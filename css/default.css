@@ -1,0 +1,164 @@
+@import url(http://fonts.googleapis.com/css?family=Economica|Open+Sans);
+
+body {
+  color: #161616;
+  background-color: #efefef;
+  font-size: 1em;
+}
+
+p {
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 0.8em;
+}
+
+a {
+  background-color: #cfdce3;
+  padding: 2px 4px 2px 4px;
+  text-decoration: none;
+  color: #4f5c6b;
+}
+
+a:visited {
+  background-color: #eff3f5;
+}
+
+ul, ol {
+  margin-left: 1em;
+}
+ul li, ol li {
+  font-size: 0.8em;
+}
+
+ol {
+  list-style-type: decimal;
+}
+
+.grid {
+  background-color: white;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+}
+
+.banner-wrapper header {
+  border-bottom: 1px dotted #cccccc;
+}
+.banner-wrapper header h1 {
+  text-align: center;
+  letter-spacing: 15px;
+  padding: 0.5em 0 0.5em 0;
+  text-transform: uppercase;
+  font-family: "Economica", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+.banner-wrapper header .social {
+  text-align: right;
+  margin-top: 2.6em;
+}
+.banner-wrapper header .social li {
+  display: inline;
+}
+.banner-wrapper header .social li a {
+  background-color: transparent;
+  font-size: 2em;
+  font-weight: bold;
+  color: #cfdce3;
+  text-decoration: none;
+}
+.banner-wrapper header .social li a:hover {
+  color: #4f5c6b;
+}
+
+.pagination .next {
+  margin-bottom: 1em;
+  float: right;
+}
+
+article h1 {
+  font-family: "Economica", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1.8em;
+  text-transform: uppercase;
+}
+article h1 a {
+  color: #4f5c6b;
+  text-decoration: none;
+}
+article h2 {
+  text-transform: uppercase;
+}
+article h2, article h3, article h4, article h5, article h6 {
+  font-family: "Economica", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+article img {
+  padding: 5px;
+  background-color: #f6f6f6;
+}
+article ol, article ul {
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  margin-left: 1.5em;
+}
+article .meta {
+  color: gray;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: smaller;
+}
+article .meta i {
+  color: #bbbbbb;
+  font-size: smaller;
+  margin-right: 0.5em;
+}
+article .meta hr {
+  position: relative;
+  top: 1.5em;
+  border: 0;
+  border-bottom: 1px dotted gray;
+  height: 1px;
+}
+article .meta time {
+  position: relative;
+  padding-right: 0.5em;
+  background-color: white;
+}
+
+aside {
+  clear: right;
+  background-color: #fafafa;
+  padding: 1em;
+}
+aside section h1 {
+  padding: 0;
+  font-family: "Economica", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  text-align: center;
+  text-transform: uppercase;
+  font-size: 1.8em;
+}
+aside section ol {
+  margin: 0;
+}
+aside .archive {
+  font-family: "Economica", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+aside .archive i {
+  position: relative;
+  top: 2px;
+  margin-right: 0.2em;
+}
+aside .archive li {
+  line-height: 1.8em;
+  font-size: 2em;
+  list-style: none;
+}
+aside .archive li a {
+  color: #4f5c6b;
+  background-color: transparent;
+  text-decoration: none;
+}
+
+footer {
+  padding-bottom: 1em;
+  text-align: center;
+  font-size: smaller;
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: gray;
+}
+
+#last-row {
+  margin-bottom: 0;
+}

@@ -1,9 +1,10 @@
 ---
-title: Fall inspiration
-date: 2012-11-14
+layout: post
+title:  Fall inspiration
+date:   2012-11-14
 ---
 
-![Collage](/images/collage-fall-inspiration.jpg)
+![Collage]({{site.url}}/images/collage-fall-inspiration.jpg)
 
 Images:
 

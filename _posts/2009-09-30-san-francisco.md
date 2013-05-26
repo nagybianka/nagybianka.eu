@@ -1,6 +1,7 @@
 ---
-title: San Francisco
-date: 2009-09-30
+layout: post
+title:  San Francisco
+date:   2009-09-30
 ---
 
 As the plane tickets to US are really cheap nowadays, we decided to go on a road trip on the West Coast for two weeks. We started our trip in hilly San Francisco. We stayed 5 days, but I think in 3 days you can have a first impression of the city. As we stayed with friends, I can't really recommend a hotel. But I noticed that if you're hotel is near the [BART](http://www.bart.gov/ "Bay Area Rapid Transit"), you can get to the most important places. The public transport system is not really user friendly, but it's good enough the travel around the city and surroundings.

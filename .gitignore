@@ -1,4 +1,4 @@
-/.bundle
-/build
-/.sass-cache
-/.rvmrc
+_site
+.ruby-version
+.ruby-gemset
+.bundle
