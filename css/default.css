@@ -75,6 +75,20 @@ ol {
   float: right;
 }
 
+section ul {
+  list-style: none;
+}
+section h1 {
+  font-family: "Economica", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: 1.8em;
+  text-transform: uppercase;
+  display: inline-block;
+}
+section time {
+  font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: gray;
+}
+
 article h1 {
   font-family: "Economica", "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 1.8em;
