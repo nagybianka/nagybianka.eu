@@ -70,6 +70,14 @@ ol {
   color: #4f5c6b;
 }
 
+#home {
+  text-align: center;
+}
+#home h1 {
+  text-align: center;
+  margin: 2em 0 2em 0;
+}
+
 .pagination .next {
   margin-bottom: 1em;
   float: right;
