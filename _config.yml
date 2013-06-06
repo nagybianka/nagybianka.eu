@@ -3,6 +3,6 @@ pygments: false
 safe: true
 timezone: Europe/Brussels
 future: false
-permalink: /blog/:title
+permalink: blog/:title
 url: http://nagybianka.github.io/nagybianka.eu
 email: hamfilter+bibi@gmail.com
