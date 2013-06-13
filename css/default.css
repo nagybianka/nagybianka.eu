@@ -78,6 +78,18 @@ ol {
   margin: 2em 0 2em 0;
 }
 
+#home .big-link {
+  width: 2em;
+  height: 2em;
+  padding: 0.9em 1em 1em 1em;
+  border-radius: 50%;
+  background-color: #cfdce3;
+  display: block;
+}
+#home .big-link span {
+  display: inline-block;
+}
+
 .pagination .next {
   margin-bottom: 1em;
   float: right;
