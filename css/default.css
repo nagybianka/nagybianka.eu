@@ -89,6 +89,10 @@ ol {
 #home .big-link span {
   display: inline-block;
 }
+#home .big-link:hover {
+  background-color: #4f5c6b;
+  color: white;
+}
 
 .pagination .next {
   margin-bottom: 1em;
