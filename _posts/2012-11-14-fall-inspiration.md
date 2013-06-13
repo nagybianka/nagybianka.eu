@@ -4,7 +4,7 @@ title:  Fall inspiration
 date:   2012-11-14
 ---
 
-![Collage]({{site.url}}/images/collage-fall-inspiration.jpg)
+![Collage](/images/collage-fall-inspiration.jpg)
 
 Images:
 

@@ -6,7 +6,7 @@ date:   2013-05-15
 
 This is an easy pasta recipe that can be made quickly on a busy week night.
 
-![Vegetarian pasta]({{site.url}}/images/vegetarian-pasta.jpg)
+![Vegetarian pasta](/images/vegetarian-pasta.jpg)
 
 ## Pasta
 
