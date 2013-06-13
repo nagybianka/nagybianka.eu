@@ -110,6 +110,7 @@ section h1 {
 }
 section time {
   font-family: "Open Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-size: smaller;
   color: gray;
 }
 
