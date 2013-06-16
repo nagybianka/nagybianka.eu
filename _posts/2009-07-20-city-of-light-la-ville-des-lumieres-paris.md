@@ -4,6 +4,8 @@ title:  City of Light, La ville des lumières (Paris)
 date:   2009-07-20
 ---
 
+![Eiffel Tower as seen from Centre Pompidou](/images/paris.jpg)
+
 For the long weekend we decided to visit the City of Light, Paris. As it was a last minute decision the train ticket could have been cheaper, but it wasn’t overly expensive for a two way ticket (€100/person). And it only takes about 1.20 min from Brussels Midi Station to arrive in Paris Nord Station.
 
 We booked a room in the charming, but eclectic hotel [Eldorado](http://www.eldoradohotel.fr/ "Hotel Eldorado, Paris"), a few steps away from Place de Clichy and 15 minutes from Montmartre. A single room costs between €35-€60, a twin room €70-€80 and a triple room €80-€90. It's great value for your money!
