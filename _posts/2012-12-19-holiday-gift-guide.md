@@ -4,8 +4,6 @@ title:  Holiday gift guide
 date:   2012-12-19
 ---
 
-I hope you find my gift guide under €50 helpful for the holidays. All of the items would make great gifts, whether your are shopping for your mother, sister, daughter or best friend.
-
 ![Collage](/images/collage-holiday-gift-guide.jpg)
 
 1. Gloves
@@ -18,3 +16,7 @@ I hope you find my gift guide under €50 helpful for the holidays. All of the i
 8. Butterfly earrings
 9. Golden wallet
 10. Lait amande gift package
+
+I hope you find my gift guide under €50 helpful for the holidays. All of the items would make great gifts, whether your are shopping for your mother, sister, daughter or best friend.
+
+
