@@ -4,9 +4,9 @@ title:  Easy vegetarian pasta
 date:   2013-05-15
 ---
 
-This is an easy pasta recipe that can be made quickly on a busy week night.
-
 ![Vegetarian pasta](/images/vegetarian-pasta.jpg)
+
+This is an easy pasta recipe that can be made quickly on a busy week night.
 
 ## Pasta
 
