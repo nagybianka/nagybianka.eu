@@ -2,11 +2,14 @@
 layout: none
 ---
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom">
+<feed xml:lang="en-US" xmlns="http://www.w3.org/2005/Atom">
   <title>{{ site.name }}</title>
   <link href="{{ site.url }}/feed.xml" rel="self" />
   <link href="{{ site.url }}/" />
   <id>{{ site.url }}/</id>
+  <author>
+    <name>{{ site.name }}</name>
+  </author>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
   {% for post in site.posts %}
     {% unless post.link %}
@@ -16,7 +19,9 @@ layout: none
         <link rel="alternate" type="text/html" href="{{ site.url }}{{ post.url }}" />
         <id>{{ site.url }}{{ post.url }}</id>
         <updated>{{ post.date | date_to_xmlschema }}</updated>
-        <summary>{{ post.content | xml_escape }}</summary>
+        <content type="html">
+          {{ post.content | xml_escape }}
+        </content>
         <author>
           <name>{{ site.name }}</name>
         </author>
