@@ -1,3 +1,3 @@
-# nagybianka.eu
+# Personal blog
 
-My personal website at [nagybianka.eu](http://nagybianka.eu) using Jekyll and Github pages.
+My personal blog at [nagybianka.eu](http://nagybianka.eu) using built using Jekyll and hosted on Github Pages.
