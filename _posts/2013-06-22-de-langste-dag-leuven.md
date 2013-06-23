@@ -8,7 +8,8 @@ date:   2013-06-22
 
 *Photo: [Granny Turismo](http://www.grannyturismo.net/grannyturismo/granny_home.html)*
 
-Every year [Leuven Handelt!](http://www.leuvenhandelt.be/) organizes the event **'De Langste Dag'**, meaning a day of shopping and entertainment on the 'longest' day of the year. It's a day to celebrate the beginning of summer. Shops will already offer discounts before the summer sale begins! Next to shopping, international artists will entertain the crowd in the streets. Here are some pictures from the event.
+Every year [Leuven Handelt!](http://www.leuvenhandelt.be/) organizes the event **'De Langste Dag'**, meaning a day of shopping and entertainment on the 'longest' day of the year. It's a day to celebrate the beginning of summer. Shops already offered discounts before the summer sale begins! Next to shopping, international artists entertained the crowd in the streets. One of the funniest act was [Granny Turismo](http://www.grannyturismo.net/grannyturismo/granny_home.html), one of the grannies almost ran me over with her bycicle while I was snapping a picture of her. Despite the rainy and windy weather, lots of people attended the event. 
+Here are some pictures from the event.
 
 ![Iron Wings](/images/abacus-theater-iron-wings.jpg)
 
