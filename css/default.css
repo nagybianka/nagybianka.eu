@@ -28,6 +28,9 @@ ul, ol {
 ul li, ol li {
   font-size: 0.8em;
 }
+ul li p, ol li p {
+  font-size: 1em;
+}
 
 ol {
   list-style-type: decimal;
