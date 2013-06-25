@@ -9,15 +9,12 @@ date:   2013-06-24
 In May 2011 we went on holidays to New York city for 8 days. It was my first time in New York city and I immediately fell in love with the city. We visited most of the touristy things: Central Park, Statue of Liberty and Ellis Island, Guggenheim museum, Fifth Avneue, walked over the Brooklyn Bridge to Dumbo neigboorhood, Times Square, Rockefeller Center, Empire State Building, Battery Park with view of the Statue of Liberty, Wall Street, High Line park, United Nations building.
 
 ![Statue of Liberty](/images/statue-of-liberty.jpg)
-
 ![Flat Iron building New York](/images/flat-iron-building.jpg)
-
 ![Highline park Manhattan](/images/highline-park.jpg)
 
 We ate cupcakes at a cutest little [cupcake shop](http://www.littlecupcakebakeshop.com) and saw the actor Gabriel Bryne from the movie The Usual Suspects. We also spotted Sarah Jessica Parker walking around Greenwich, that was for me a Sex and the City moment. We walked a lot, we had such a great time there!
 
 ![Eating cupcakes in Soho](/images/new-york-cupcakes.jpg)
-
 ![New York skyline as seen from Brooklyn](/images/new-york-skyline-brooklyn.jpg)
 
 Here are some tested and approved restaurants and bars:
