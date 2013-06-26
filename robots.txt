@@ -2,4 +2,4 @@ User-agent: *
 Disallow: 
 Disallow: /css/
 Disallow: /fonts/
-Sitemap: /sitemap.xml
+Sitemap: http://nagybianka.eu/sitemap.xml
