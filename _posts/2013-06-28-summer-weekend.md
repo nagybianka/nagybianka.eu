@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Weekend
+title:  Summer weekend
 date:   2013-06-28
 ---
 
